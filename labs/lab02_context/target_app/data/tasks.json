@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "read course/04_context.md",
+    "priority": 2,
+    "created_at": "2025-12-01T09:00:00Z",
+    "done": false
+  },
+  {
+    "id": 2,
+    "title": "refactor target_app sorting",
+    "priority": 3,
+    "created_at": "2025-12-02T10:30:00Z",
+    "done": true
+  },
+  {
+    "id": 3,
+    "title": "write SAMPLE_PROMPTS.md",
+    "priority": 1,
+    "created_at": "2025-12-02T08:15:00Z",
+    "done": false
+  }
+]
+
