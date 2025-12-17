@@ -1,0 +1,43 @@
+github-copilot-coding-agent-course/
+│
+├─ README.md                 # 저장소 메인 소개
+├─ LICENSE
+├─ .gitignore
+│
+├─ course/                   # 강의 자료 (md 기준)
+│   ├─ 00_overview.md
+│   ├─ 01_setup.md
+│   ├─ 02_agent_mindset.md
+│   ├─ 03_talk_to_agent.md
+│   ├─ 04_context.md
+│   ├─ 05_large_codebase.md
+│   ├─ 06_test_and_debug.md
+│   ├─ 07_custom_instructions.md
+│   ├─ 08_quality_control.md
+│   ├─ 09_build_test_ship.md
+│   └─ 10_ai_team_workflow.md
+│
+├─ labs/                     # 실습 코드
+│   ├─ lab01_todo_basic/
+│   ├─ lab02_context/
+│   ├─ lab03_refactor/
+│   ├─ lab04_testing/
+│   ├─ lab05_feature/
+│   └─ lab06_ai_team/
+│
+├─ prompts/                  # 재사용 프롬프트
+│   ├─ agent_basics.md
+│   ├─ feature_delegation.md
+│   ├─ testing_debug.md
+│   ├─ quality_review.md
+│   └─ role_based.md
+│
+├─ templates/                # 팀/개인 템플릿
+│   ├─ custom_instructions.md
+│   ├─ workflow_template.md
+│   └─ pr_template.md
+│
+└─ appendix/                 # 부록
+    ├─ appendix_a_prompts.md
+    ├─ appendix_b_safe_vs_risky.md
+    └─ appendix_c_workflows.md
